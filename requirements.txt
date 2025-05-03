@@ -3,9 +3,3 @@ pandas
 joblib
 streamlit
 scikit-learn
-
-import numpy
-import pandas
-import joblit
-import streamlit
-import scikit-learn
